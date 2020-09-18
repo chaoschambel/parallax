@@ -1,0 +1,10 @@
+git - version control
+basic terminal usage
+data structure : primitive data " integer, string,float, boolean, ...
+				 majemuk        " array, list, linked-list, tree, graph, ...
+& algoritma    : problem solving, big O &time complexity, rekursi, searching &sorting, ...    }
+Design Pattern : SOLID, KISS, YAGNI
+Javascript, phyton
+Licences & Semantic Versioning
+SSH, protocol HTTP/HTTPS & API's
+Character Encodings
